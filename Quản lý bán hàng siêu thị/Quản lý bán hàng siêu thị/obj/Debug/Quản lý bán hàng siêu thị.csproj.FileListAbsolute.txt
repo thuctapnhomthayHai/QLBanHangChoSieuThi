@@ -1,0 +1,10 @@
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csprojResolveAssemblyReference.cache
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.Properties.Resources.resources
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csproj.GenerateResource.Cache
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.pdb
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.frmdn.resources
+E:\VS2015\VS2015 projects\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.FrmMain.resources
