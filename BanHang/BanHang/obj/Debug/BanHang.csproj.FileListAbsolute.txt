@@ -7,3 +7,6 @@ D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\
 D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.exe
 D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.pdb
 D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.BanHang.resources
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\BanHang\BanHang\bin\Debug\BanHang.exe.config
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.exe
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.pdb

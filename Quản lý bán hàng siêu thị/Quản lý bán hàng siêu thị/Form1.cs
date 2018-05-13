@@ -27,7 +27,7 @@ namespace Quản_lý_bán_hàng_siêu_thị
 
         private void btndn_Click(object sender, EventArgs e)
         {
-            SqlConnection conn = new SqlConnection(@"Data Source=BAOMINH180-PC\sqlexpress;Initial Catalog=PMBanHangSieuThi;Integrated Security=True");
+            SqlConnection conn = new SqlConnection(@"Data Source=.\SQLEXPRESS;Initial Catalog=PMBanHangSieuThi;Integrated Security=True");
             try
             {
                 conn.Open();

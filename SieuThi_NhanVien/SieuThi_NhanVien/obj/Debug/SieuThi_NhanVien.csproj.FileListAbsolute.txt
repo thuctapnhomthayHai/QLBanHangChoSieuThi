@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2013\Projects\SieuThi_NhanVien\SieuThi_NhanVien\bin\Debug\SieuThi_NhanVien.exe.config
+C:\Users\dell\documents\visual studio 2013\Projects\SieuThi_NhanVien\SieuThi_NhanVien\bin\Debug\SieuThi_NhanVien.exe
+C:\Users\dell\documents\visual studio 2013\Projects\SieuThi_NhanVien\SieuThi_NhanVien\bin\Debug\SieuThi_NhanVien.pdb
+C:\Users\dell\documents\visual studio 2013\Projects\SieuThi_NhanVien\SieuThi_NhanVien\obj\Debug\SieuThi_NhanVien.csprojResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2013\Projects\SieuThi_NhanVien\SieuThi_NhanVien\obj\Debug\SieuThi_NhanVien.NhanVien.resources
+C:\Users\dell\documents\visual studio 2013\Projects\SieuThi_NhanVien\SieuThi_NhanVien\obj\Debug\SieuThi_NhanVien.Properties.Resources.resources
+C:\Users\dell\documents\visual studio 2013\Projects\SieuThi_NhanVien\SieuThi_NhanVien\obj\Debug\SieuThi_NhanVien.csproj.GenerateResource.Cache
+C:\Users\dell\documents\visual studio 2013\Projects\SieuThi_NhanVien\SieuThi_NhanVien\obj\Debug\SieuThi_NhanVien.exe
+C:\Users\dell\documents\visual studio 2013\Projects\SieuThi_NhanVien\SieuThi_NhanVien\obj\Debug\SieuThi_NhanVien.pdb
