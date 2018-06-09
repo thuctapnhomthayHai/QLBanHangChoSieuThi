@@ -74,7 +74,6 @@
             this.bánHàngToolStripMenuItem.Name = "bánHàngToolStripMenuItem";
             this.bánHàngToolStripMenuItem.Size = new System.Drawing.Size(69, 20);
             this.bánHàngToolStripMenuItem.Text = "Bán hàng";
-            this.bánHàngToolStripMenuItem.Click += new System.EventHandler(this.bánHàngToolStripMenuItem_Click);
             // 
             // quảnLýKháchHàngToolStripMenuItem
             // 
