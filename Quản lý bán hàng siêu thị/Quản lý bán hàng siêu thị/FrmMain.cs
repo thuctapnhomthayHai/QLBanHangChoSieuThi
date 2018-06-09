@@ -16,5 +16,15 @@ namespace Quản_lý_bán_hàng_siêu_thị
         {
             InitializeComponent();
         }
+
+        private void quảnLýKháchHàngToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void FrmMain_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
