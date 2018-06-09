@@ -16,5 +16,12 @@ namespace Quản_lý_bán_hàng_siêu_thị
         {
             InitializeComponent();
         }
+
+        private void bánHàngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            BanHang bh = new BanHang();
+            bh.Show();
+            this.Hide();
+        }
     }
 }
