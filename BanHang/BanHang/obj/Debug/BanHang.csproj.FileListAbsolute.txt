@@ -10,3 +10,6 @@ D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\
 C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\BanHang\BanHang\bin\Debug\BanHang.exe.config
 C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.exe
 C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.pdb
+D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\BanHang\BanHang\bin\Debug\BanHang.exe.config
+D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.exe
+D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.pdb

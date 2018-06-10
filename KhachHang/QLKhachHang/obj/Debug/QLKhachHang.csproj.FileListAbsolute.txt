@@ -183,3 +183,6 @@ D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\KhachHang\QLKhachHang\obj\
 C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\KhachHang\QLKhachHang\bin\Debug\QLKhachHang.exe.config
 C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\KhachHang\QLKhachHang\obj\Debug\QLKhachHang.exe
 C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\KhachHang\QLKhachHang\obj\Debug\QLKhachHang.pdb
+D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\KhachHang\QLKhachHang\bin\Debug\QLKhachHang.exe.config
+D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\KhachHang\QLKhachHang\obj\Debug\QLKhachHang.exe
+D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\KhachHang\QLKhachHang\obj\Debug\QLKhachHang.pdb

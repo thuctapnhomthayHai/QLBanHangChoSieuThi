@@ -7,3 +7,6 @@ C:\Users\dell\documents\visual studio 2013\Projects\SieuThi_NhanVien\SieuThi_Nha
 C:\Users\dell\documents\visual studio 2013\Projects\SieuThi_NhanVien\SieuThi_NhanVien\obj\Debug\SieuThi_NhanVien.csproj.GenerateResource.Cache
 C:\Users\dell\documents\visual studio 2013\Projects\SieuThi_NhanVien\SieuThi_NhanVien\obj\Debug\SieuThi_NhanVien.exe
 C:\Users\dell\documents\visual studio 2013\Projects\SieuThi_NhanVien\SieuThi_NhanVien\obj\Debug\SieuThi_NhanVien.pdb
+D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\SieuThi_NhanVien\SieuThi_NhanVien\bin\Debug\SieuThi_NhanVien.exe.config
+D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\SieuThi_NhanVien\SieuThi_NhanVien\obj\Debug\SieuThi_NhanVien.exe
+D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\SieuThi_NhanVien\SieuThi_NhanVien\obj\Debug\SieuThi_NhanVien.pdb
