@@ -34,3 +34,16 @@ C:\Users\tobmo\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu 
 C:\Users\tobmo\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csproj.GenerateResource.Cache
 C:\Users\tobmo\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.g.resources
 C:\Users\tobmo\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.ThongKe.resources
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csprojAssemblyReference.cache
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.frmdn.resources
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.frmCustomer.resources
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.FrmMain.resources
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.Properties.Resources.resources
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.ThongKe.resources
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csproj.GenerateResource.cache
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csproj.CoreCompileInputs.cache
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.pdb

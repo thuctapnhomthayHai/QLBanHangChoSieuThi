@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
-using System.Data;
+
 
 
 namespace Quản_lý_bán_hàng_siêu_thị
@@ -46,7 +46,7 @@ namespace Quản_lý_bán_hàng_siêu_thị
                 else MessageBox.Show("Đăng nhập thất bại", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
             }
-            catch(Exception ex)
+            catch(Exception)
             {
                 MessageBox.Show("Lỗi kết nối");
             }
