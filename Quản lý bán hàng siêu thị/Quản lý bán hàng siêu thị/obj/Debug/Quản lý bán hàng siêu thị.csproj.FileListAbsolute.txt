@@ -34,6 +34,7 @@ C:\Users\tobmo\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu 
 C:\Users\tobmo\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csproj.GenerateResource.Cache
 C:\Users\tobmo\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.g.resources
 C:\Users\tobmo\Documents\GitHub\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.ThongKe.resources
+<<<<<<< HEAD
 D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
 D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
 D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
@@ -46,3 +47,18 @@ D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\Q
 D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.ThongKe.resources
 D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csproj.GenerateResource.Cache
 D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.frmKH.resources
+=======
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csprojAssemblyReference.cache
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.frmdn.resources
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.frmCustomer.resources
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.FrmMain.resources
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.Properties.Resources.resources
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.ThongKe.resources
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csproj.GenerateResource.cache
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csproj.CoreCompileInputs.cache
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe
+E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.pdb
+>>>>>>> 253a7a9a3a6a0a39c72b3593e7a131e8c9447f49

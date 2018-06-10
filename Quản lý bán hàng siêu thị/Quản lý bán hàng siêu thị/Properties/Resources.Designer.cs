@@ -19,7 +19,7 @@ namespace Quản_lý_bán_hàng_siêu_thị.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -63,9 +63,15 @@ namespace Quản_lý_bán_hàng_siêu_thị.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap _0459a3158144a863bec50fdb4019f34e {
             get {
                 object obj = ResourceManager.GetObject("0459a3158144a863bec50fdb4019f34e", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap Checkmark_32 {
+            get {
+                object obj = ResourceManager.GetObject("Checkmark-32", resourceCulture);
+>>>>>>> 253a7a9a3a6a0a39c72b3593e7a131e8c9447f49
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +79,15 @@ namespace Quản_lý_bán_hàng_siêu_thị.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap hinh_nen_dep_15 {
             get {
                 object obj = ResourceManager.GetObject("hinh-nen-dep-15", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap close_32 {
+            get {
+                object obj = ResourceManager.GetObject("close-32", resourceCulture);
+>>>>>>> 253a7a9a3a6a0a39c72b3593e7a131e8c9447f49
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +95,15 @@ namespace Quản_lý_bán_hàng_siêu_thị.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap hinh_nen_mau_xanh_14_351x185 {
             get {
                 object obj = ResourceManager.GetObject("hinh-nen-mau-xanh-14-351x185", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap delete1 {
+            get {
+                object obj = ResourceManager.GetObject("delete1", resourceCulture);
+>>>>>>> 253a7a9a3a6a0a39c72b3593e7a131e8c9447f49
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +111,15 @@ namespace Quản_lý_bán_hàng_siêu_thị.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap tai_hinh_nen_81 {
             get {
                 object obj = ResourceManager.GetObject("tai-hinh-nen-81", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap edit {
+            get {
+                object obj = ResourceManager.GetObject("edit", resourceCulture);
+>>>>>>> 253a7a9a3a6a0a39c72b3593e7a131e8c9447f49
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +127,35 @@ namespace Quản_lý_bán_hàng_siêu_thị.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap tu_van_kinh_doanh_sieu_thi {
             get {
                 object obj = ResourceManager.GetObject("tu-van-kinh-doanh-sieu-thi", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap if_export_17365 {
+            get {
+                object obj = ResourceManager.GetObject("if_export_17365", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap if_sign_add_299068 {
+            get {
+                object obj = ResourceManager.GetObject("if_sign-add_299068", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap search {
+            get {
+                object obj = ResourceManager.GetObject("search", resourceCulture);
+>>>>>>> 253a7a9a3a6a0a39c72b3593e7a131e8c9447f49
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
