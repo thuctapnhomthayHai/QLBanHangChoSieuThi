@@ -54,5 +54,10 @@ namespace Quản_lý_bán_hàng_siêu_thị
                 con.Close();
             }
         }
+
+        private void ThongKe_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

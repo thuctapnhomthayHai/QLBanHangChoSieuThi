@@ -1,0 +1,15 @@
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\BanHang\BanHang\bin\Debug\BanHang.exe.config
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\BanHang\BanHang\bin\Debug\BanHang.exe
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\BanHang\BanHang\bin\Debug\BanHang.pdb
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.csprojResolveAssemblyReference.cache
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.Properties.Resources.resources
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.csproj.GenerateResource.Cache
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.exe
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.pdb
+D:\Kỳ 6\Thực tập nhóm_TH14\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.BanHang.resources
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\BanHang\BanHang\bin\Debug\BanHang.exe.config
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.exe
+C:\Users\dell\Documents\GitHub\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.pdb
+D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\BanHang\BanHang\bin\Debug\BanHang.exe.config
+D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.exe
+D:\Tài liệu\Thực tập nhóm_TH14\Phần mềm bán hàng cho siêu thị\QLBanHangChoSieuThi\BanHang\BanHang\obj\Debug\BanHang.pdb
