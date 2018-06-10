@@ -17,7 +17,7 @@ namespace Quản_lý_bán_hàng_siêu_thị
         {
             InitializeComponent();
         }
-        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-SNTR6UK;Initial Catalog=PMBanHangSieuThi;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-EADVFVM;Initial Catalog=PMBanHangSieuThi;Integrated Security=True");
         private void button1_Click(object sender, EventArgs e)
         {
             if(radioButton1.Checked == true)

@@ -24,7 +24,7 @@ namespace Quản_lý_bán_hàng_siêu_thị
         public static void Connect()
         {
             Con = new SqlConnection();   //Khởi tạo đối tượng
-            Con.ConnectionString = @"Data Source=PC\THUYDUNG;Initial Catalog=PMBanHangSieuThi;Integrated Security=True";
+            Con.ConnectionString = @"Data Source=DESKTOP-EADVFVM;Initial Catalog=PMBanHangSieuThi;Integrated Security=True";
             Con.Open();//mở kết nối
             //kiểm tra kết nối
             if (Con.State == ConnectionState.Open)

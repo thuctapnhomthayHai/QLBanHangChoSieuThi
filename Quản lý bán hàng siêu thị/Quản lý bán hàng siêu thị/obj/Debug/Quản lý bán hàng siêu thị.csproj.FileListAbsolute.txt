@@ -47,3 +47,17 @@ E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hà
 E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
 E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe
 E:\TTN\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.pdb
+C:\Users\Hung Nguyen\Desktop\TTCSDL\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe.config
+C:\Users\Hung Nguyen\Desktop\TTCSDL\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.exe
+C:\Users\Hung Nguyen\Desktop\TTCSDL\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\bin\Debug\Quản lý bán hàng siêu thị.pdb
+C:\Users\Hung Nguyen\Desktop\TTCSDL\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csprojResolveAssemblyReference.cache
+C:\Users\Hung Nguyen\Desktop\TTCSDL\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.frmdn.resources
+C:\Users\Hung Nguyen\Desktop\TTCSDL\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.frmCustomer.resources
+C:\Users\Hung Nguyen\Desktop\TTCSDL\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.FrmMain.resources
+C:\Users\Hung Nguyen\Desktop\TTCSDL\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.Properties.Resources.resources
+C:\Users\Hung Nguyen\Desktop\TTCSDL\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.ThongKe.resources
+C:\Users\Hung Nguyen\Desktop\TTCSDL\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csproj.GenerateResource.Cache
+C:\Users\Hung Nguyen\Desktop\TTCSDL\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.csproj.CoreCompileInputs.cache
+C:\Users\Hung Nguyen\Desktop\TTCSDL\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.exe
+C:\Users\Hung Nguyen\Desktop\TTCSDL\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản lý bán hàng siêu thị.pdb
+C:\Users\Hung Nguyen\Desktop\TTCSDL\QLBanHangChoSieuThi\Quản lý bán hàng siêu thị\Quản lý bán hàng siêu thị\obj\Debug\Quản_lý_bán_hàng_siêu_thị.FormNhapHang.resources
